@@ -1,3 +1,3 @@
-## Welcome to About
+## 日本語チームについて
 
-The link to [HOME](https://kozo2.github.io/website/)
+About
