@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+docs_list_title: Carpentry Japanese team Documentation
+docs:
+
+- title: Introduction
+  url: index.html
+
+- title: About
+  url: about.html
