@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## ホーム
+
+カーペントリー日本語チームのウェブサイトへようこそ。
 
 You can use the [editor on GitHub](https://github.com/kozo2/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
