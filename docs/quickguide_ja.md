@@ -37,15 +37,15 @@ title: 翻訳のクイックガイド
 
 1. “i18n” フォルダに移動します
 1. “po” フォルダに移動します
-1. Find any file with “.ja.po” file extension
-1. Translate with your favorite PO editor or directly edit the file
+1. “.ja.po” のファイル拡張子も持つファイルを見つけます
+1. “.ja.po” ファイルをお気に入りのPOエディターで翻訳するか、直接編集します
 
 ![](translate123.png)
 
-## Directly editing the file
+## ファイルを直接編集する場合
 
-1. Do NOT change “msgid”
-1. Translate anything in between the quotation marks in the “msgstr” block only
+1. “msgid” は変更しないようにします
+1. “msgstr” ブロックの""の内(間)を翻訳します
 
 ![](directly_editing12.png)
 
